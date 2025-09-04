@@ -62,8 +62,7 @@
 
 | Repo | Description | Tech |
 |------|-------------|------|
-| [**Abhishek Mishra Portfolio**](https://abhi-mishra998.github.io/Abhishek-Mishra-Portfolio/) | Personal portfolio with projects & achievements | 🔗 Live |
-| [**Tour Travel Website**](https://abhi-mishra998.github.io/tour-travel-website-github-workflow/) | Travel booking demo with GitHub Actions CI/CD | 🔗 Live |
+| [**Abhishek Mishra Portfolio**](https://abhi-mishra998.github.io/Abhishek-Mishra-Portfolio/) | Personal portfolio with projects & achievements | [🔗 Live](https://abhi-mishra998.github.io/Abhishek-Mishra-Portfolio/) | [**Tour Travel Website**](https://abhi-mishra998.github.io/tour-travel-website-github-workflow/) | Travel booking demo with GitHub Actions CI/CD | [🔗 Live](https://abhi-mishra998.github.io/tour-travel-website-github-workflow/) |
 | [**SmartLawyer-RAG**](https://github.com/abhishek9880/smartlawyer-using-rag) | AI chatbot connecting users with legal docs & lawyers | Python, LangChain, FAISS |
 | [**DevOps Journey Task**](https://github.com/Abhi-mishra998/devops-journey-task) | Real-world DevOps tasks & notes | Shell, Markdown |
 | [**Jenkins Pipeline Demo**](https://github.com/Abhi-mishra998/jenkins-pipeline-demo) | Jenkins multibranch pipeline | Jenkins, JavaScript |
@@ -94,7 +93,7 @@
 - Cloud Computing with AWS – Academy of Skill Development  
 - [📂 View All Certificates](https://tinyurl.com/abhishek9880-certs)  
 
----
+
 ### 📊 Contributions & Activity
 
 <p align="center">
@@ -114,7 +113,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abhi-mishra998&style=for-the-badge&color=blue" />
 </p>
 
----
+
 ### 🤝 Let’s Connect  
 
 - 📩 [Email Me](mailto:abhishekmishra09896@gmail.com)  
