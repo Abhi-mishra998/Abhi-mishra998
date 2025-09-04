@@ -62,6 +62,8 @@
 
 | Repo | Description | Tech |
 |------|-------------|------|
+| [**Abhishek Mishra Portfolio**](https://abhi-mishra998.github.io/Abhishek-Mishra-Portfolio/) | Personal portfolio with projects & achievements | 🔗 Live |
+| [**Tour Travel Website**](https://abhi-mishra998.github.io/tour-travel-website-github-workflow/) | Travel booking demo with GitHub Actions CI/CD | 🔗 Live |
 | [**SmartLawyer-RAG**](https://github.com/abhishek9880/smartlawyer-using-rag) | AI chatbot connecting users with legal docs & lawyers | Python, LangChain, FAISS |
 | [**DevOps Journey Task**](https://github.com/Abhi-mishra998/devops-journey-task) | Real-world DevOps tasks & notes | Shell, Markdown |
 | [**Jenkins Pipeline Demo**](https://github.com/Abhi-mishra998/jenkins-pipeline-demo) | Jenkins multibranch pipeline | Jenkins, JavaScript |
@@ -93,7 +95,26 @@
 - [📂 View All Certificates](https://tinyurl.com/abhishek9880-certs)  
 
 ---
+### 📊 Contributions & Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-mishra998&theme=react-dark&hide_border=true" width="95%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-mishra998&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github.com/Abhi-mishra998/Abhi-mishra998/blob/output/github-contribution-grid-snake.svg" width="95%"/>
+</p>
+----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity+Engineer;Passionate+about+Automation+%26+Security;Building+Real-World+Projects+on+AWS+%26+DevOps" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhi-mishra998&style=for-the-badge&color=blue" />
+</p>
+
+---
 ### 🤝 Let’s Connect  
 
 - 📩 [Email Me](mailto:abhishekmishra09896@gmail.com)  
