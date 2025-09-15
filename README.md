@@ -23,36 +23,50 @@
 📌 Looking for roles as **DevOps Engineer | Cloud Engineer | Security Analyst**  
 
 ---
-
-### 🔧 Tech Stack  
+### 🔧 Tech Stack (DevSecOps)  
 <p align="center">
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" title="Firebase"/>
 
-  <!-- DevOps -->
+  <!-- Cloud Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" title="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50" title="OCI"/>
+
+  <!-- DevOps & CI/CD -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" title="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" title="GitLab CI/CD"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" height="28" title="GitHub Actions"/>
+
+  <!-- IaC & Config Management -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" title="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" title="Ansible"/>
 
-  <!-- Monitoring -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" title="Grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" title="Prometheus"/>
+  <!-- Security Tools -->
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" width="50" title="OWASP"/>
+  <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="50" title="SonarQube"/>
+  <img src="https://aquasecurity.github.io/trivy.io/images/trivy-logo.png" width="70" title="Trivy"/>
 
-  <!-- Languages -->
+  <!-- Monitoring & Logging -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" title="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" title="Grafana"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="50" title="ELK Stack"/>
+
+  <!-- Collaboration & Agile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50" title="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="50" title="Confluence"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="50" title="Slack"/>
+
+  <!-- Languages & OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI"/>
 </p>
+
+
 
 ---
 
