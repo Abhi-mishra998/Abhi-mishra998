@@ -14,8 +14,6 @@
   </a>
 </p>
 
----
-
 ### 🚀 About Me  
 🎓 Final-year **B.Tech (Hons) IT (Cybersecurity)** — Kurukshetra University, PIET (2025)  
 ☁️ Skilled in **AWS, OCI, DevOps, Cybersecurity**  
@@ -36,14 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" title="Docker"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins"/>
-
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" title="linux"  />
-          
-
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"  width="60" title="GitHub" />
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" title="GitLab"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"  width="60" title="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" title="GitLab"/>
 
   <!-- 📜 IaC & Config -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" title="Terraform"/>
@@ -53,8 +46,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" width="60" title="sonarqube" />
           
-   
-  <!-- 📊 Monitoring -->
+     <!-- 📊 Monitoring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60" title="Prometheus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60" title="Grafana"/>
 
@@ -66,8 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
-
-
 
 ### 📂 Featured Projects  
 
@@ -342,14 +332,13 @@ Helping beginners contribute to open source projects - Community contribution pr
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi-mishra998&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" />
 </p>
-```
+
 ```
 ### 🏆 Achievements  
 - 🏅 **NPTEL Discipline Star** – 20 credits in tech courses  
 - 🏆 **Best Leadership Award 2022** – PIET  
 - 👨‍💻 **Hackathon Finalist** – KR Mangalam (AI Education App)  
 
-```
 ```
 ### 🎖️ Special Achievements
 <div align="center">
@@ -364,8 +353,7 @@ Helping beginners contribute to open source projects - Community contribution pr
 | 📦 **50+ Repositories** | Built | Ongoing |
 
 </div>
-```
-```
+
 ### 📜 Certifications  
 - 🎓 **Oracle Certified Associate** (OCI Foundations)  
 - 🎓 **50+ Certifications** (IITs, GUVI, AWS, NPTEL, etc.)  
@@ -382,15 +370,13 @@ Helping beginners contribute to open source projects - Community contribution pr
 </p>
 
 ```
-```
 ### 📊 Activity Distribution
 
 Commits:        95% ████████████████████████████████████████
 Pull Requests:   4% ███
 Code Reviews:    1% █
+```
 
-```
-```
 ### ✨ Dynamic Typing Banner  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;Passionate+about+Automation+%26+Security;Building+Real-World+Projects+on+AWS+%26+DevOps" />
@@ -399,11 +385,7 @@ Code Reviews:    1% █
   <img src="https://komarev.com/ghpvc/?username=Abhi-mishra998&style=for-the-badge&color=blue" />
 </p>
 ```
-```
 
 ### 🤝 Connect With Me  
 📩 [Email](mailto:abhishekmishra09896@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-49888123b/) | 🌐 [Portfolio](https://abhimishra-devops.com) | [Hasnode.com](https://blog.abhimishra-devops.com)
-
-```
-```
 <p align="center">✨ Thanks for visiting — keep learning, keep building! ✨</p>
