@@ -22,7 +22,7 @@
 🛠️ Hands-on with **Jenkins, Docker, Kubernetes, Terraform, Ansible, Linux**  
 📌 Looking for roles as **DevOps Engineer | Cloud Engineer | Security Analyst**  
 
-```
+
 ### 🔧 Tech Stack (DevSecOps)
 
 <p align="center">
@@ -70,7 +70,7 @@
 
 
 ### 📂 Featured Projects  
-```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack & Tools
@@ -327,7 +327,6 @@ Helping beginners contribute to open source projects - Community contribution pr
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
 ### 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight" width="45%"/>
@@ -337,7 +336,7 @@ Helping beginners contribute to open source projects - Community contribution pr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-mishra998&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 ```
-```
+
 ## 🏆 GitHub Trophies & Achievements
 
 <p align="center">
