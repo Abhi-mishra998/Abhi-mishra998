@@ -258,7 +258,7 @@
 <td width="50%">
 
 ### 🔸 Portfolio Website
-[![Live](https://img.shields.io/badge/Live-Visit_Site-success?style=for-the-badge&logo=google-chrome)](https://abhi-mishra998.github.io/Abhishek-Mishra-Portfolio/)
+[![Live](https://img.shields.io/badge/Live-Visit_Site-success?style=for-the-badge&logo=google-chrome)](https://abhimishra-devops.com)
 
 Modern, responsive portfolio showcasing projects and skills with interactive UI/UX design.
 
