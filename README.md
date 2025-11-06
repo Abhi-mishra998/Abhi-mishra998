@@ -1,4 +1,4 @@
-!-- Banner -->
+
 <h1 align="center">👋 Hi, I'm Abhishek Mishra</h1>
 <h3 align="center">☁️ Cloud | ⚙️ DevOps | 🔐 Cybersecurity Enthusiast 🚀</h3>
 
@@ -336,21 +336,21 @@ Helping beginners contribute to open source projects - Community contribution pr
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-mishra998&theme=react-dark&hide_border=true" width="95%"/>
 </p>
-
-
-
+```
+```
 ## 🏆 GitHub Trophies & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi-mishra998&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" />
 </p>
-
+```
 ```
 ### 🏆 Achievements  
 - 🏅 **NPTEL Discipline Star** – 20 credits in tech courses  
 - 🏆 **Best Leadership Award 2022** – PIET  
 - 👨‍💻 **Hackathon Finalist** – KR Mangalam (AI Education App)  
 
+```
 ```
 ### 🎖️ Special Achievements
 <div align="center">
@@ -365,6 +365,7 @@ Helping beginners contribute to open source projects - Community contribution pr
 | 📦 **50+ Repositories** | Built | Ongoing |
 
 </div>
+```
 ```
 ### 📜 Certifications  
 - 🎓 **Oracle Certified Associate** (OCI Foundations)  
@@ -382,12 +383,13 @@ Helping beginners contribute to open source projects - Community contribution pr
 </p>
 
 ```
-
-### 📊 Activity Distribution
 ```
+### 📊 Activity Distribution
+
 Commits:        95% ████████████████████████████████████████
 Pull Requests:   4% ███
 Code Reviews:    1% █
+
 ```
 ```
 ### ✨ Dynamic Typing Banner  
@@ -397,12 +399,12 @@ Code Reviews:    1% █
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhi-mishra998&style=for-the-badge&color=blue" />
 </p>
-
+```
 ```
 
 ### 🤝 Connect With Me  
 📩 [Email](mailto:abhishekmishra09896@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-49888123b/) | 🌐 [Portfolio](https://abhimishra-devops.com) | [Hasnode.com](https://blog.abhimishra-devops.com)
 
 ```
-
+```
 <p align="center">✨ Thanks for visiting — keep learning, keep building! ✨</p>
