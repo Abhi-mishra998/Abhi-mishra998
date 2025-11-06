@@ -63,7 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>    
 </p>
-```
 ### 📂 Featured Projects  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -331,18 +330,16 @@ Helping beginners contribute to open source projects - Community contribution pr
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-mishra998&theme=react-dark&hide_border=true" width="95%"/>
 </p>
-```
 ## 🏆 GitHub Trophies & Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi-mishra998&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" />
 </p>
-```
+
 ### 🏆 Achievements  
 - 🏅 **NPTEL Discipline Star** – 20 credits in tech courses  
 - 🏆 **Best Leadership Award 2022** – PIET  
 - 👨‍💻 **Hackathon Finalist** – KR Mangalam (AI Education App)  
-```
+
 ### 🎖️ Special Achievements
 <div align="center">
 
@@ -356,7 +353,7 @@ Helping beginners contribute to open source projects - Community contribution pr
 | 📦 **50+ Repositories** | Built | Ongoing |
 
 </div>
-```
+
 ### 📜 Certifications  
 - 🎓 **Oracle Certified Associate** (OCI Foundations)  
 - 🎓 **50+ Certifications** (IITs, GUVI, AWS, NPTEL, etc.)  
@@ -371,10 +368,7 @@ Helping beginners contribute to open source projects - Community contribution pr
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
-```
-```
 ### 📊 Activity Distribution
-```
 Commits:        95% ████████████████████████████████████████
 Pull Requests:   4% ███
 Code Reviews:    1% █
