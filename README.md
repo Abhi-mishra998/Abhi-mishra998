@@ -67,14 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
 
-
-          
-</p>
-
-
-
-
----
+```
 
 ### 📂 Featured Projects  
 ```
@@ -165,7 +158,7 @@
 
 **Tech Stack:** Jenkins | Docker | Trivy | Node.js
 
-- Built secure CI/CD pipeline for Node.js API
+- Built a secure CI/CD pipeline for Node.js API
 - Integrated Trivy for container vulnerability scanning
 - Automated Docker Hub deployment with security checks
 - **Impact:** Improved release consistency and security posture
@@ -194,7 +187,7 @@
 
 **Tech Stack:** Python | OpenAI | LangChain | FAISS | Streamlit
 
-- Developed AI-powered legal assistant using RAG architecture
+- Developed an AI-powered legal assistant using RAG architecture
 - Integrated OpenAI and LangChain for intelligent document queries
 - Built scalable backend with real-time response capabilities
 - **Impact:** Automated legal document analysis
