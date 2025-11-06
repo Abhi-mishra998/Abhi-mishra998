@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Abhishek Mishra</h1>
 <h3 align="center">☁️ Cloud | ⚙️ DevOps | 🔐 Cybersecurity Enthusiast 🚀</h3>
 
@@ -20,7 +19,6 @@
 🛠️ Hands-on with **Jenkins, Docker, Kubernetes, Terraform, Ansible, Linux**  
 📌 Looking for roles as **DevOps Engineer | Cloud Engineer | Security Analyst**  
 
-
 ### 🔧 Tech Stack (DevSecOps)
 
 <p align="center">
@@ -34,9 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" title="Docker"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins"/>
+
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" title="linux"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"  width="60" title="GitHub" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" title="GitLab"/>
+          
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"  width="60" title="GitHub" />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" title="GitLab"/>
 
   <!-- 📜 IaC & Config -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" title="Terraform"/>
@@ -46,7 +49,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" width="60" title="sonarqube" />
           
-     <!-- 📊 Monitoring -->
+   
+  <!-- 📊 Monitoring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60" title="Prometheus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60" title="Grafana"/>
 
@@ -57,10 +61,11 @@
   <!-- 💻 Languages & OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>    
+</p>
 
 ### 📂 Featured Projects  
-
+```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack & Tools
@@ -107,7 +112,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-```
+
 ### 🤝 Collaboration Tools
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
@@ -116,7 +121,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-```
+
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -124,6 +129,7 @@
 ### 🚀 Cloud & DevOps Projects
 
 </div>
+
 <table>
 <tr>
 <td width="50%">
@@ -146,7 +152,7 @@
 
 **Tech Stack:** Jenkins | Docker | Trivy | Node.js
 
-- Built a secure CI/CD pipeline for Node.js API
+- Built secure CI/CD pipeline for Node.js API
 - Integrated Trivy for container vulnerability scanning
 - Automated Docker Hub deployment with security checks
 - **Impact:** Improved release consistency and security posture
@@ -175,7 +181,7 @@
 
 **Tech Stack:** Python | OpenAI | LangChain | FAISS | Streamlit
 
-- Developed an AI-powered legal assistant using RAG architecture
+- Developed AI-powered legal assistant using RAG architecture
 - Integrated OpenAI and LangChain for intelligent document queries
 - Built scalable backend with real-time response capabilities
 - **Impact:** Automated legal document analysis
@@ -317,6 +323,7 @@ Helping beginners contribute to open source projects - Community contribution pr
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 ### 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight" width="45%"/>
@@ -332,13 +339,14 @@ Helping beginners contribute to open source projects - Community contribution pr
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi-mishra998&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" />
 </p>
-
 ```
+
 ### 🏆 Achievements  
 - 🏅 **NPTEL Discipline Star** – 20 credits in tech courses  
 - 🏆 **Best Leadership Award 2022** – PIET  
 - 👨‍💻 **Hackathon Finalist** – KR Mangalam (AI Education App)  
 
+```
 ```
 ### 🎖️ Special Achievements
 <div align="center">
@@ -353,7 +361,7 @@ Helping beginners contribute to open source projects - Community contribution pr
 | 📦 **50+ Repositories** | Built | Ongoing |
 
 </div>
-
+```
 ### 📜 Certifications  
 - 🎓 **Oracle Certified Associate** (OCI Foundations)  
 - 🎓 **50+ Certifications** (IITs, GUVI, AWS, NPTEL, etc.)  
@@ -368,15 +376,13 @@ Helping beginners contribute to open source projects - Community contribution pr
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
-
 ```
 ### 📊 Activity Distribution
-
+```
 Commits:        95% ████████████████████████████████████████
 Pull Requests:   4% ███
 Code Reviews:    1% █
 ```
-
 ### ✨ Dynamic Typing Banner  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;Passionate+about+Automation+%26+Security;Building+Real-World+Projects+on+AWS+%26+DevOps" />
@@ -384,7 +390,6 @@ Code Reviews:    1% █
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhi-mishra998&style=for-the-badge&color=blue" />
 </p>
-```
 
 ### 🤝 Connect With Me  
 📩 [Email](mailto:abhishekmishra09896@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-49888123b/) | 🌐 [Portfolio](https://abhimishra-devops.com) | [Hasnode.com](https://blog.abhimishra-devops.com)
