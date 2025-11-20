@@ -143,6 +143,35 @@
 </td>
 <td width="50%">
 
+### 🔷React Application – DevOps CI/CD Deployment Pipeline
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devops-build-by-Abhi.git)
+
+**Tech Stack:**  React 18 |  Nginx | Docker & Docker Compose | AWS EC2  | Git & GitHub|  Docker Hub | Bash Scripting | Custom Docker-based solution |  SSH Key Authentication
+
+Built an automated CI/CD pipeline using Jenkins, Docker, GitHub Webhooks, and AWS EC2 for zero-touch React application deployments.
+- Containerised the app with Docker + Nginx, ensuring consistent environments across development and production.
+- Implemented separate Dev & Prod pipelines with secure image management via Docker Hub.
+- Deployed on AWS EC2 with SSH-based access control and integrated health monitoring for system reliability.
+- **Impact:** Reduced deployment time by 80% through automation and scripting.
+
+</td>
+<td width="50%">
+
+### 🔷 MLOps Diabetes Prediction - End-to-End Production Pipeline
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/mlops-diabetes-prediction-aws.git)
+
+**Tech Stack:** Python | FastAPI | scikit-learn | Docker | Kubernetes (EKS) | AWS ECR | AWS ALB | Route 53 | ACM (SSL/TLS) | AWS IAM (IRSA) | VPC Networking | Git & GitHub | CI/CD Automation
+
+- Built an end-to-end MLOps pipeline using FastAPI, Docker, Kubernetes (EKS), and AWS, deploying a production-ready ML model.
+- Implemented ALB Ingress, Route 53, and ACM (HTTPS) for secure, scalable, and highly available API access.
+- Containerised and deployed the model on Kubernetes with auto-scaling and rolling updates, ensuring zero downtime.
+- Used AWS ECR, IAM, VPC, and IRSA to follow cloud security best practices and private image management.
+- Improved performance and availability with load balancing, health checks, and monitoring.
+- **Impact:** Designed and deployed a production-grade MLOps pipeline on AWS EKS using FastAPI, Docker, and Kubernetes with ALB + HTTPS, improving system availability by 99.9%, reducing deployment time by 70%, and enabling zero-downtime, auto-scaling ML predictions at scale.
+
+</td>
+<td width="50%">
+  
 ### 🔷 DevSecOps ToDo API
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devsecops-todo-api)
 
@@ -252,7 +281,6 @@
 ### 🌐 Portfolio & Showcase Projects
 
 </div>
-
 <table>
 <tr>
 <td width="50%">
@@ -263,6 +291,19 @@
 Modern, responsive portfolio showcasing projects and skills with interactive UI/UX design.
 
 </td>
+
+<td width="50%">
+## ✍️ DevOps & MLOps Blog
+
+[![Blog](https://img.shields.io/badge/Hashnode-Blog-blue?style=for-the-badge&logo=hashnode)](https://blog.abhimishra-devops.com)
+[![Views](https://img.shields.io/badge/Views-459+-brightgreen?style=for-the-badge)]
+[![Articles](https://img.shields.io/badge/Articles-5-orange?style=for-the-badge)]
+
+🔥 Writing about **Cloud, DevOps, Kubernetes, CI/CD & AI**  
+   📈 1k+ total views | 200 views (last 7 days) | 5 technical articles  
+
+</td>
+
 <td width="50%">
 
 ### 🔸 Tour Travel Website (CI/CD)
