@@ -13,56 +13,47 @@
   </a>
 </p>
 
-### 🚀 About Me  
-🎓 Final-year **B.Tech (Hons) IT (Cybersecurity)** — Kurukshetra University, PIET (2025)  
-☁️ Skilled in **AWS, OCI, DevOps, Cybersecurity**  
-🛠️ Hands-on with **Jenkins, Docker, Kubernetes, Terraform, Ansible, Linux**  
-📌 Looking for roles as **DevOps Engineer | Cloud Engineer | Security Analyst**  
-
-### 🔧 Tech Stack (DevSecOps)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;Passionate+about+Automation+%26+Security;Building+Real-World+Projects+on+AWS+%26+DevOps" />
+</p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhi-mishra998&style=for-the-badge&color=blue" />
+</p>
 
-  <!-- ☁️ Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="Google Cloud"/>
-          
+---
 
-  <!-- ⚙️ DevOps / CI-CD -->
-  
+## 🚀 About Me
+
+🎓 **Final-year B.Tech (Hons) IT (Cybersecurity)** — Kurukshetra University, PIET (2025)  
+☁️ Skilled in **AWS, OCI, DevOps, Cybersecurity**  
+🛠️ Hands-on with **Jenkins, Docker, Kubernetes, Terraform, Ansible, Linux**  
+📌 Looking for roles as **DevOps Engineer | Cloud Engineer | Security Analyst**
+
+---
+
+## 🔧 Tech Stack (DevSecOps)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" title="Docker"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins"/>
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" title="linux"  />
-          
-
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"  width="60" title="GitHub" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" title="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" title="GitLab"/>
-
-  <!-- 📜 IaC & Config -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" title="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="60" title="Ansible"/>
-
-  <!-- 🔐 Security -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" width="60" title="sonarqube" />
-          
-   
-  <!-- 📊 Monitoring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" width="60" title="SonarQube"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60" title="Prometheus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60" title="Grafana"/>
-
-  <!-- 🤝 Collaboration -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" title="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" title="Slack"/>
-
-  <!-- 💻 Languages & OS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>    
 </p>
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -118,17 +109,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
+
 ## 🎯 Featured Projects
 
-<div align="center">
-
 ### 🚀 Cloud & DevOps Projects
+
 <table>
 <tr>
-
 <td width="50%">
 
-### 🔷 Kubernetes Ingress on AWS EKS with ALB
+#### 🔷 Kubernetes Ingress on AWS EKS with ALB
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/kubernetes-ingress-eks-alb)
 
 **Tech Stack:** AWS EKS | ALB | Kubernetes | CloudWatch
@@ -142,10 +133,10 @@
 
 <td width="50%">
 
-### 🔷 React Application – DevOps CI/CD Pipeline
+#### 🔷 React Application – DevOps CI/CD Pipeline
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devops-build-by-Abhi)
 
-**Tech Stack:** React 18 | Nginx | Docker | Docker Compose | Jenkins | AWS EC2 | GitHub | Docker Hub | Bash | SSH
+**Tech Stack:** React 18 | Nginx | Docker | Docker Compose | Jenkins | AWS EC2
 
 - Built an automated CI/CD pipeline with Jenkins & GitHub webhooks  
 - Dockerized the app for consistent Dev/Prod environments  
@@ -156,12 +147,12 @@
 </tr>
 
 <tr>
-<td colspan="2" width="100%">
+<td colspan="2">
 
-### 🔷 MLOps Diabetes Prediction – Production Pipeline
+#### 🔷 MLOps Diabetes Prediction – Production Pipeline
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/mlops-diabetes-prediction-aws)
 
-**Tech Stack:** Python | FastAPI | scikit-learn | Docker | Kubernetes (EKS) | AWS ECR | ALB | Route 53 | ACM | IAM (IRSA) | VPC | GitHub
+**Tech Stack:** Python | FastAPI | scikit-learn | Docker | Kubernetes (EKS) | AWS ECR | ALB | Route 53 | ACM | IAM (IRSA) | VPC
 
 - Built an end-to-end MLOps pipeline on AWS EKS  
 - Implemented ALB, HTTPS, and Route 53 for secure access  
@@ -171,8 +162,11 @@
 
 </td>
 </tr>
+
 <tr>
-### 🔷 DevSecOps ToDo API
+<td width="50%">
+
+#### 🔷 DevSecOps ToDo API
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devsecops-todo-api)
 
 **Tech Stack:** Jenkins | Docker | Trivy | Node.js
@@ -183,12 +177,10 @@
 - **Impact:** Improved release consistency and security posture
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
-### 🔷 AWS Static Website CI/CD
+#### 🔷 AWS Static Website CI/CD
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/aws-static-website-cicd)
 
 **Tech Stack:** CodePipeline | CodeBuild | S3 | CloudFront
@@ -199,9 +191,12 @@
 - **Impact:** Streamlined deployment process by 70%
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-### 🔷 SmartLawyer-RAG (AI Legal Assistant)
+#### 🔷 SmartLawyer-RAG (AI Legal Assistant)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhishek9880/smartlawyer-using-rag)
 
 **Tech Stack:** Python | OpenAI | LangChain | FAISS | Streamlit
@@ -212,12 +207,10 @@
 - **Impact:** Automated legal document analysis
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
-### 🔷 CloudFormation AWS Infrastructure
+#### 🔷 CloudFormation AWS Infrastructure
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/cloudformation-AWS-zero-to-hero)
 
 **Tech Stack:** AWS CloudFormation | IaC | VPC | EC2
@@ -228,9 +221,12 @@
 - **Impact:** Reduced infrastructure setup time by 60%
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-### 🔷 Prometheus & Grafana Quick Setup
+#### 🔷 Prometheus & Grafana Quick Setup
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/prometheus-grafana-quick-setup)
 ![Stars](https://img.shields.io/github/stars/Abhi-mishra998/prometheus-grafana-quick-setup?style=social)
 
@@ -242,12 +238,10 @@
 - **Impact:** 2 GitHub Stars - Community favorite!
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
-### 🔷 Jenkins Docker AWS Pipeline
+#### 🔷 Jenkins Docker AWS Pipeline
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/jenkins-docker-aws-pipeline)
 ![Stars](https://img.shields.io/github/stars/Abhi-mishra998/jenkins-docker-aws-pipeline?style=social)
 
@@ -259,9 +253,12 @@
 - **Impact:** Streamlined AWS deployment workflow
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-### 🔷 Node.js Automation Project
+#### 🔷 Node.js Automation Project
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/nodejs-automation-)
 ![Stars](https://img.shields.io/github/stars/Abhi-mishra998/nodejs-automation-?style=social)
 
@@ -273,40 +270,55 @@
 - **Impact:** Improved deployment reliability
 
 </td>
+
+<td width="50%">
+
+#### 🔷 DevOps Journey Tasks
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devops-journey-task)
+
+**Tech Stack:** Multi-technology DevOps stack
+
+- Real-world DevOps challenges and hands-on tasks
+- Covers various technologies and best practices
+- **Impact:** 10+ commits showcasing continuous learning
+
+</td>
 </tr>
 </table>
 
-<div align="center">
+---
 
 ### 🌐 Portfolio & Showcase Projects
 
-</div>
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🔸 Portfolio Website
+#### 🔸 Portfolio Website
 [![Live](https://img.shields.io/badge/Live-Visit_Site-success?style=for-the-badge&logo=google-chrome)](https://abhimishra-devops.com)
 
 Modern, responsive portfolio showcasing projects and skills with interactive UI/UX design.
 
 </td>
 
-<td width="50%">
-### ✍️ DevOps & MLOps Blog
+<td width="33%">
 
-[![Blog](https://img.shields.io/badge/Hashnode-Blog-blue?style=for-the-badge&logo=hashnode)](https://blog.abhimishra-devops.com)
-[![Views](https://img.shields.io/badge/Views-459+-brightgreen?style=for-the-badge)]
-[![Articles](https://img.shields.io/badge/Articles-5-orange?style=for-the-badge)]
+#### 🔸 DevOps & MLOps Blog
+[![Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://blog.abhimishra-devops.com)
+
+<p>
+  <img src="https://img.shields.io/badge/Views-1000+-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Articles-5-orange?style=for-the-badge" />
+</p>
 
 🔥 Writing about **Cloud, DevOps, Kubernetes, CI/CD & AI**  
-   📈 1k+ total views | 200 views (last 7 days) | 5 technical articles  
+📈 **459+ views (last 7 days)** | 5 technical articles
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-### 🔸 Tour Travel Website (CI/CD)
+#### 🔸 Tour Travel Website
 [![Live](https://img.shields.io/badge/Live-Visit_Site-success?style=for-the-badge&logo=google-chrome)](https://abhi-mishra998.github.io/tour-travel-website-github-workflow/)
 
 GitHub Actions workflow demo with automated deployment and testing pipelines.
@@ -315,29 +327,19 @@ GitHub Actions workflow demo with automated deployment and testing pipelines.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🔸 Jenkins Pipeline Demo
+#### 🔸 Jenkins Pipeline Demo
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/jenkins-pipeline-demo)
 ![Stars](https://img.shields.io/github/stars/Abhi-mishra998/jenkins-pipeline-demo?style=social)
 
 Multibranch CI/CD pipeline implementation with Jenkins for continuous integration.
 
 </td>
-<td width="50%">
 
-### 🔸 DevOps Journey Tasks
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devops-journey-task)
+<td width="33%">
 
-Real-world DevOps challenges and hands-on tasks covering various technologies. **10+ commits**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔸 AWS Pipeline Project
+#### 🔸 AWS Pipeline Project
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/AWSpipline)
 ![Stars](https://img.shields.io/github/stars/Abhi-mishra998/AWSpipline?style=social)
 
@@ -346,13 +348,14 @@ Real-world DevOps challenges and hands-on tasks covering various technologies. *
 AWS-based deployment pipeline with automated workflows.
 
 </td>
-<td width="50%">
 
-### 🔸 First Contributions (Fork)
+<td width="33%">
+
+#### 🔸 First Contributions
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/first-contributions)
 ![Stars](https://img.shields.io/github/stars/Abhi-mishra998/first-contributions?style=social)
 
-Helping beginners contribute to open source projects - Community contribution project.
+Community contribution project helping beginners get started with open source.
 
 </td>
 </tr>
@@ -360,44 +363,64 @@ Helping beginners contribute to open source projects - Community contribution pr
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
 
-### 📊 GitHub Analytics  
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-mishra998&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-mishra998&theme=tokyonight" width="48%"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-mishra998&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
+### 📈 Activity Distribution
+```
+Commits:        95% ████████████████████████████████████████
+Pull Requests:   4% ███
+Code Reviews:    1% █
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-mishra998&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies & Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhi-mishra998&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" />
 </p>
 
-### 🏆 Achievements  
-- 🏅 **NPTEL Discipline Star** – 20 credits in tech courses  
-- 🏆 **Best Leadership Award 2022** – PIET  
-- 👨‍💻 **Hackathon Finalist** – KR Mangalam (AI Education App)  
-
 ### 🎖️ Special Achievements
+
 <div align="center">
 
-| Achievement | Status | Date |
-|:------------|:-------|:-----|
-| 🦈 **Pull Shark** | Unlocked | Mastered Pull Requests |
-| ⚡ **Quickdraw** | Unlocked | Lightning Fast Contributor |
-| 🎯 **First Repository** | Created | July 24, 2025 |
-| 🚀 **First Pull Request** | Merged | August 10, 2025 |
-| 🌟 **253+ Contributions** | Active | Last Year |
-| 📦 **50+ Repositories** | Built | Ongoing |
+| Achievement | Status | Details |
+|:------------|:-------|:--------|
+| 🦈 **Pull Shark** | ✅ Unlocked | Mastered Pull Requests |
+| ⚡ **Quickdraw** | ✅ Unlocked | Lightning Fast Contributor |
+| 🎯 **First Repository** | ✅ Created | July 24, 2025 |
+| 🚀 **First Pull Request** | ✅ Merged | August 10, 2025 |
+| 🌟 **253+ Contributions** | 🔥 Active | Last Year |
+| 📦 **50+ Repositories** | 🚀 Built | Ongoing |
 
 </div>
 
-### 📜 Certifications  
-- 🎓 **Oracle Certified Associate** (OCI Foundations)  
-- 🎓 **50+ Certifications** (IITs, GUVI, AWS, NPTEL, etc.)  
-- [📂 View All Certificates](https://tinyurl.com/abhishek9880-certs)  
+---
+
+## 🏅 Professional Achievements
+
+- 🏅 **NPTEL Discipline Star** – 20 credits in tech courses  
+- 🏆 **Best Leadership Award 2022** – PIET  
+- 👨‍💻 **Hackathon Finalist** – KR Mangalam (AI Education App)
+
+---
+
+## 📜 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -409,19 +432,46 @@ Helping beginners contribute to open source projects - Community contribution pr
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-### 📊 Activity Distribution
-Commits:        95% ████████████████████████████████████████
-Pull Requests:   4% ███
-Code Reviews:    1% █
+### 🎓 Certification Highlights
 
-### ✨ Dynamic Typing Banner  
+- 🎓 **Oracle Certified Associate** (OCI Foundations)  
+- 🎓 **50+ Certifications** (IITs, GUVI, AWS, NPTEL, etc.)  
+- 📂 **[View All Certificates](https://tinyurl.com/abhishek9880-certs)**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;Passionate+about+Automation+%26+Security;Building+Real-World+Projects+on+AWS+%26+DevOps" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhi-mishra998&style=for-the-badge&color=blue" />
+  <a href="https://abhimishra-devops.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://blog.abhimishra-devops.com">
+    <img src="https://img.shields.io/badge/Blog-Read_Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-mishra-49888123b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhishekmishra09896@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abhi-mishra998">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-### 🤝 Connect With Me  
-📩 [Email](mailto:abhishekmishra09896@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-49888123b/) | 🌐 [Portfolio](https://abhimishra-devops.com) | [Hasnode.com](https://blog.abhimishra-devops.com)
-<p align="center">✨ Thanks for visiting — keep learning, keep building! ✨</p>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <b>✨ Thanks for visiting — keep learning, keep building! ✨</b>
+</p>
+
+<p align="center">
+  <i>Made with ❤️ by Abhishek Mishra</i>
+</p>
