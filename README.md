@@ -123,11 +123,9 @@
 <div align="center">
 
 ### 🚀 Cloud & DevOps Projects
-
-</div>
-
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🔷 Kubernetes Ingress on AWS EKS with ALB
@@ -135,43 +133,45 @@
 
 **Tech Stack:** AWS EKS | ALB | Kubernetes | CloudWatch
 
-- Deployed scalable web application on AWS EKS with ALB-based Ingress
-- Configured TLS termination and path-based routing for secure communication
-- Monitored performance using CloudWatch and Kubernetes metrics
-- **Impact:** Enhanced routing efficiency and reduced latency by 40%
+- Deployed a scalable application on AWS EKS with ALB-based Ingress  
+- Configured TLS termination & path-based routing  
+- Monitored performance via CloudWatch & Kubernetes metrics  
+- **Impact:** Reduced latency by **40%**
 
 </td>
+
 <td width="50%">
 
-### 🔷React Application – DevOps CI/CD Deployment Pipeline
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devops-build-by-Abhi.git)
+### 🔷 React Application – DevOps CI/CD Pipeline
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devops-build-by-Abhi)
 
-**Tech Stack:**  React 18 |  Nginx | Docker & Docker Compose | AWS EC2  | Git & GitHub|  Docker Hub | Bash Scripting | Custom Docker-based solution |  SSH Key Authentication
+**Tech Stack:** React 18 | Nginx | Docker | Docker Compose | Jenkins | AWS EC2 | GitHub | Docker Hub | Bash | SSH
 
-Built an automated CI/CD pipeline using Jenkins, Docker, GitHub Webhooks, and AWS EC2 for zero-touch React application deployments.
-- Containerised the app with Docker + Nginx, ensuring consistent environments across development and production.
-- Implemented separate Dev & Prod pipelines with secure image management via Docker Hub.
-- Deployed on AWS EC2 with SSH-based access control and integrated health monitoring for system reliability.
-- **Impact:** Reduced deployment time by 80% through automation and scripting.
+- Built an automated CI/CD pipeline with Jenkins & GitHub webhooks  
+- Dockerized the app for consistent Dev/Prod environments  
+- Implemented secure EC2 deployment with SSH authentication  
+- **Impact:** Reduced deployment time by **80%**
 
 </td>
-<td width="50%">
+</tr>
 
-### 🔷 MLOps Diabetes Prediction - End-to-End Production Pipeline
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/mlops-diabetes-prediction-aws.git)
+<tr>
+<td colspan="2" width="100%">
 
-**Tech Stack:** Python | FastAPI | scikit-learn | Docker | Kubernetes (EKS) | AWS ECR | AWS ALB | Route 53 | ACM (SSL/TLS) | AWS IAM (IRSA) | VPC Networking | Git & GitHub | CI/CD Automation
+### 🔷 MLOps Diabetes Prediction – Production Pipeline
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/mlops-diabetes-prediction-aws)
 
-- Built an end-to-end MLOps pipeline using FastAPI, Docker, Kubernetes (EKS), and AWS, deploying a production-ready ML model.
-- Implemented ALB Ingress, Route 53, and ACM (HTTPS) for secure, scalable, and highly available API access.
-- Containerised and deployed the model on Kubernetes with auto-scaling and rolling updates, ensuring zero downtime.
-- Used AWS ECR, IAM, VPC, and IRSA to follow cloud security best practices and private image management.
-- Improved performance and availability with load balancing, health checks, and monitoring.
-- **Impact:** Designed and deployed a production-grade MLOps pipeline on AWS EKS using FastAPI, Docker, and Kubernetes with ALB + HTTPS, improving system availability by 99.9%, reducing deployment time by 70%, and enabling zero-downtime, auto-scaling ML predictions at scale.
+**Tech Stack:** Python | FastAPI | scikit-learn | Docker | Kubernetes (EKS) | AWS ECR | ALB | Route 53 | ACM | IAM (IRSA) | VPC | GitHub
+
+- Built an end-to-end MLOps pipeline on AWS EKS  
+- Implemented ALB, HTTPS, and Route 53 for secure access  
+- Enabled auto-scaling, rolling updates & zero downtime  
+- Applied cloud security best practices (IAM, IRSA, private images)  
+- **Impact:** Achieved **99.9% availability**, reduced releases by **70%**, enabled scalable ML predictions
 
 </td>
-<td width="50%">
-  
+</tr>
+<tr>
 ### 🔷 DevSecOps ToDo API
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/devsecops-todo-api)
 
@@ -293,7 +293,7 @@ Modern, responsive portfolio showcasing projects and skills with interactive UI/
 </td>
 
 <td width="50%">
-## ✍️ DevOps & MLOps Blog
+### ✍️ DevOps & MLOps Blog
 
 [![Blog](https://img.shields.io/badge/Hashnode-Blog-blue?style=for-the-badge&logo=hashnode)](https://blog.abhimishra-devops.com)
 [![Views](https://img.shields.io/badge/Views-459+-brightgreen?style=for-the-badge)]
