@@ -295,7 +295,7 @@
 <td width="33%">
 
 #### 🔸 Portfolio Website
-[![Live](https://img.shields.io/badge/Live-Visit_Site-success?style=for-the-badge&logo=google-chrome)](https://abhimishra-devops.com)
+[![Live](https://img.shields.io/badge/Live-Visit_Site-success?style=for-the-badge&logo=google-chrome)](https://abhi-mishra998.github.io/abhimishra-devops/)
 
 Modern, responsive portfolio showcasing projects and skills with interactive UI/UX design.
 
@@ -304,7 +304,7 @@ Modern, responsive portfolio showcasing projects and skills with interactive UI/
 <td width="33%">
 
 #### 🔸 DevOps & MLOps Blog
-[![Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://blog.abhimishra-devops.com)
+[![Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://projectsphere.hashnode.dev/)
 
 <p>
   <img src="https://img.shields.io/badge/Views-1000+-brightgreen?style=for-the-badge" />
