@@ -367,33 +367,62 @@ Community contribution project helping beginners get started with open source.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abhi-mishra998&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-mishra998&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-mishra998&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<!-- ══════════════ STAT CARDS ══════════════ -->
+<table>
+<tr>
+<td align="center" width="25%">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-mishra998&theme=tokyonight" width="95%"/>
-</p>
+![Contributions](https://img.shields.io/badge/Contributions-337-00C4FF?style=flat-square&logo=github&logoColor=white)
+<br><sub>Last 12 months</sub>
+
+</td>
+<td align="center" width="25%">
+
+![Repos](https://img.shields.io/badge/Repositories-50+-7C3AED?style=flat-square&logo=github&logoColor=white)
+<br><sub>Public + Private</sub>
+
+</td>
+<td align="center" width="25%">
+
+![Streak](https://img.shields.io/badge/Current_Streak-12_days-10B981?style=flat-square&logo=fire&logoColor=white)
+<br><sub>Active since Jul 2024</sub>
+
+</td>
+<td align="center" width="25%">
+
+![Certs](https://img.shields.io/badge/Certifications-50+-F59E0B?style=flat-square&logo=academia&logoColor=white)
+<br><sub>AWS · OCI · NPTEL · IITs</sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════ GITHUB STATS ══════════════ -->
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-mishra998&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" width="49%"/>
+
+<!-- ══════════════ STREAK ══════════════ -->
+<img src="https://streak-stats.demolab.com/?user=Abhi-mishra998&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
+
+<!-- ══════════════ ACTIVITY GRAPH ══════════════ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-mishra998&bg_color=1a1b27&color=00c4ff&line=00c4ff&point=ffffff&area=true&hide_border=true&area_color=00c4ff" width="98%"/>
+
+</div>
 
 ### 📈 Activity Distribution
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-95%25-00C4FF?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pull_Requests-4%25-7957D5?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code_Reviews-1%25-F05032?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi-mishra998&theme=tokyonight" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi-mishra998&theme=tokyonight" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi-mishra998&theme=tokyonight&utcOffset=5.5" width="30%"/>
-</p>
+| Activity | Share | Visual |
+|:---------|:-----:|--------|
+| ⚡ Commits | **96%** | ![96%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-96%25-00C4FF?style=flat-square) |
+| 🔀 Pull Requests | **3%** | ![3%](https://img.shields.io/badge/▓░░░░░░░░░░░░░░░░░░░░░░░░-3%25-7C3AED?style=flat-square) |
+| 👁️ Code Reviews | **1%** | ![1%](https://img.shields.io/badge/░░░░░░░░░░░░░░░░░░░░░░░░░-1%25-10B981?style=flat-square) |
+| 🐛 Issues | **<1%** | ![<1%](https://img.shields.io/badge/░░░░░░░░░░░░░░░░░░░░░░░░░-<1%25-F59E0B?style=flat-square) |
+
+</div>
 
 ---
 
