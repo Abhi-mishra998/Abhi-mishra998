@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abhishek Mishra</h1>
-<h3 align="center">☁️ Cloud | ⚙️ DevOps | 🔐 Cybersecurity Enthusiast 🚀</h3>
+<h3 align="center">☁️ Cloud · ⚙️ DevOps · 🤖 AI Engineer · 🗄️ Data & Infrastructure</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-mishra-49888123b/">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=Cloud+%7C+DevOps+%7C+Cybersecurity;Passionate+about+Automation+%26+Security;Building+Real-World+Projects+on+AWS+%26+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=700&lines=Cloud+%7C+DevOps+%7C+AI+Engineer;MLOps+%7C+LLMs+%7C+RAG+Pipelines;Building+Production+AI+%26+Cloud+Systems" />
 </p>
 
 <p align="center">
@@ -25,18 +25,18 @@
 
 ## 🚀 About Me
 
-🎓 **Final-year B.Tech (Hons) IT (Cybersecurity)** — Kurukshetra University, PIET (2025)  
-☁️ Skilled in **AWS, OCI, DevOps, Cybersecurity**  
-🛠️ Hands-on with **Jenkins, Docker, Kubernetes, Terraform, Ansible, Linux**  
-📌 Looking for roles as **DevOps Engineer | Cloud Engineer | Security Analyst**
+🎓 **B.Tech (Hons) IT** — Kurukshetra University, PIET (2025)  
+☁️ Skilled in **AWS, OCI, DevOps, MLOps, AI/LLM Engineering**  
+🛠️ Hands-on with **Jenkins, Docker, Kubernetes, Terraform, Ansible, PostgreSQL, Linux**  
+📌 Looking for roles as **DevOps Engineer | Cloud Engineer | AI Engineer | MLOps Engineer**
 
 ---
 
-## 🔧 Tech Stack (DevSecOps)
+## 🔧 Tech Stack (DevOps + AI)
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" title="Docker"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="60" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" title="Linux"/>
@@ -44,13 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" title="GitLab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" title="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="60" title="Ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" width="60" title="SonarQube"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60" title="Prometheus"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60" title="Grafana"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" title="Jira"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="60" title="Slack"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>    
 </p>
 
 ---
@@ -62,6 +61,16 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+### 🤖 AI / ML Engineering
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### 🔧 DevOps & CI/CD
@@ -79,6 +88,13 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 </p>
 
 ### 🔐 Security & Monitoring
@@ -124,13 +140,12 @@
 
 **Tech Stack:** AWS EKS | ALB | Kubernetes | CloudWatch
 
-- Deployed a scalable application on AWS EKS with ALB-based Ingress  
-- Configured TLS termination & path-based routing  
-- Monitored performance via CloudWatch & Kubernetes metrics  
+- Deployed a scalable application on AWS EKS with ALB-based Ingress
+- Configured TLS termination & path-based routing
+- Monitored performance via CloudWatch & Kubernetes metrics
 - **Impact:** Reduced latency by **40%**
 
 </td>
-
 <td width="50%">
 
 #### 🔷 React Application – DevOps CI/CD Pipeline
@@ -138,9 +153,9 @@
 
 **Tech Stack:** React 18 | Nginx | Docker | Docker Compose | Jenkins | AWS EC2
 
-- Built an automated CI/CD pipeline with Jenkins & GitHub webhooks  
-- Dockerized the app for consistent Dev/Prod environments  
-- Implemented secure EC2 deployment with SSH authentication  
+- Built an automated CI/CD pipeline with Jenkins & GitHub webhooks
+- Dockerized the app for consistent Dev/Prod environments
+- Implemented secure EC2 deployment with SSH authentication
 - **Impact:** Reduced deployment time by **80%**
 
 </td>
@@ -154,10 +169,10 @@
 
 **Tech Stack:** Python | FastAPI | scikit-learn | Docker | Kubernetes (EKS) | AWS ECR | ALB | Route 53 | ACM | IAM (IRSA) | VPC
 
-- Built an end-to-end MLOps pipeline on AWS EKS  
-- Implemented ALB, HTTPS, and Route 53 for secure access  
-- Enabled auto-scaling, rolling updates & zero downtime  
-- Applied cloud security best practices (IAM, IRSA, private images)  
+- Built an end-to-end MLOps pipeline on AWS EKS
+- Implemented ALB, HTTPS, and Route 53 for secure access
+- Enabled auto-scaling, rolling updates & zero downtime
+- Applied cloud security best practices (IAM, IRSA, private images)
 - **Impact:** Achieved **99.9% availability**, reduced releases by **70%**, enabled scalable ML predictions
 
 </td>
@@ -177,7 +192,6 @@
 - **Impact:** Improved release consistency and security posture
 
 </td>
-
 <td width="50%">
 
 #### 🔷 AWS Static Website CI/CD
@@ -188,7 +202,7 @@
 - Automated deployment using AWS CodePipeline and CodeBuild
 - Provisioned CloudFront and SSL for secure content delivery
 - Implemented version control and automated workflows
-- **Impact:** Streamlined deployment process by 70%
+- **Impact:** Streamlined deployment process by **70%**
 
 </td>
 </tr>
@@ -199,26 +213,25 @@
 #### 🔷 SmartLawyer-RAG (AI Legal Assistant)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/smartlawyer-using-rag)
 
-**Tech Stack:** Python | OpenAI | LangChain | FAISS | Streamlit
+**Tech Stack:** Python | OpenAI | LangChain | FAISS | Streamlit | PostgreSQL
 
 - Developed AI-powered legal assistant using RAG architecture
 - Integrated OpenAI and LangChain for intelligent document queries
-- Built scalable backend with real-time response capabilities
-- **Impact:** Automated legal document analysis
+- PostgreSQL-backed persistent vector memory store
+- **Impact:** Automated legal document analysis with sub-2s query response
 
 </td>
-
 <td width="50%">
 
 #### 🔷 CloudFormation AWS Infrastructure
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/cloudformation-AWS-zero-to-hero)
 
-**Tech Stack:** AWS CloudFormation | IaC | VPC | EC2
+**Tech Stack:** AWS CloudFormation | IaC | VPC | EC2 | RDS PostgreSQL
 
-- Infrastructure as Code templates for AWS resource provisioning
-- Automated VPC, EC2, and networking configuration
+- Infrastructure as Code templates for full AWS stack provisioning
+- Automated VPC, EC2, RDS and networking configuration
 - Implemented best practices for cloud architecture
-- **Impact:** Reduced infrastructure setup time by 60%
+- **Impact:** Reduced infrastructure setup time by **60%**
 
 </td>
 </tr>
@@ -235,10 +248,9 @@
 - Quick deployment setup for Prometheus and Grafana
 - Pre-configured dashboards for system monitoring
 - Docker-based containerized deployment
-- **Impact:** 2 GitHub Stars - Community favorite!
+- **Impact:** ⭐ 2 GitHub Stars — Community favorite!
 
 </td>
-
 <td width="50%">
 
 #### 🔷 Jenkins Docker AWS Pipeline
@@ -270,7 +282,6 @@
 - **Impact:** Improved deployment reliability
 
 </td>
-
 <td width="50%">
 
 #### 🔷 DevOps Journey Tasks
@@ -300,10 +311,9 @@
 Modern, responsive portfolio showcasing projects and skills with interactive UI/UX design.
 
 </td>
-
 <td width="33%">
 
-#### 🔸 DevOps & MLOps Blog
+#### 🔸 DevOps & AI Blog
 [![Blog](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode)](https://projectsphere.hashnode.dev/)
 
 <p>
@@ -311,11 +321,10 @@ Modern, responsive portfolio showcasing projects and skills with interactive UI/
   <img src="https://img.shields.io/badge/Articles-5-orange?style=for-the-badge" />
 </p>
 
-🔥 Writing about **Cloud, DevOps, Kubernetes, CI/CD & AI**  
+🔥 Writing about **Cloud, DevOps, Kubernetes, MLOps & AI**  
 📈 **459+ views (last 7 days)** | 5 technical articles
 
 </td>
-
 <td width="33%">
 
 #### 🔸 Tour Travel Website
@@ -336,7 +345,6 @@ GitHub Actions workflow demo with automated deployment and testing pipelines.
 Multibranch CI/CD pipeline implementation with Jenkins for continuous integration.
 
 </td>
-
 <td width="33%">
 
 #### 🔸 AWS Pipeline Project
@@ -348,7 +356,6 @@ Multibranch CI/CD pipeline implementation with Jenkins for continuous integratio
 AWS-based deployment pipeline with automated workflows.
 
 </td>
-
 <td width="33%">
 
 #### 🔸 First Contributions
@@ -369,58 +376,72 @@ Community contribution project helping beginners get started with open source.
 
 <div align="center">
 
-<!-- ══════════════ STAT CARDS ══════════════ -->
-<table>
-<tr>
-<td align="center" width="25%">
+### ⚡ By The Numbers
 
-![Contributions](https://img.shields.io/badge/Contributions-337-00C4FF?style=flat-square&logo=github&logoColor=white)
-<br><sub>Last 12 months</sub>
-
-</td>
-<td align="center" width="25%">
-
-![Repos](https://img.shields.io/badge/Repositories-50+-7C3AED?style=flat-square&logo=github&logoColor=white)
-<br><sub>Public + Private</sub>
-
-</td>
-<td align="center" width="25%">
-
-![Streak](https://img.shields.io/badge/Current_Streak-12_days-10B981?style=flat-square&logo=fire&logoColor=white)
-<br><sub>Active since Jul 2024</sub>
-
-</td>
-<td align="center" width="25%">
-
-![Certs](https://img.shields.io/badge/Certifications-50+-F59E0B?style=flat-square&logo=academia&logoColor=white)
-<br><sub>AWS · OCI · NPTEL · IITs</sub>
-
-</td>
-</tr>
-</table>
-
-<!-- ══════════════ GITHUB STATS ══════════════ -->
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-mishra998&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" width="49%"/>
-
-<!-- ══════════════ STREAK ══════════════ -->
-<img src="https://streak-stats.demolab.com/?user=Abhi-mishra998&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-
-<!-- ══════════════ ACTIVITY GRAPH ══════════════ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-mishra998&bg_color=1a1b27&color=00c4ff&line=00c4ff&point=ffffff&area=true&hide_border=true&area_color=00c4ff" width="98%"/>
+| 🔥 Contributions | 📦 Repositories | 🏆 Longest Streak | 🎓 Certifications |
+|:---:|:---:|:---:|:---:|
+| **337** | **50+** | **28 days** | **50+** |
+| Last 12 months | Public + Private | Oct 3 – Oct 30 | AWS · OCI · NPTEL · IITs |
 
 </div>
+
+---
 
 ### 📈 Activity Distribution
 
 <div align="center">
 
-| Activity | Share | Visual |
-|:---------|:-----:|--------|
-| ⚡ Commits | **96%** | ![96%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-96%25-00C4FF?style=flat-square) |
-| 🔀 Pull Requests | **3%** | ![3%](https://img.shields.io/badge/▓░░░░░░░░░░░░░░░░░░░░░░░░-3%25-7C3AED?style=flat-square) |
-| 👁️ Code Reviews | **1%** | ![1%](https://img.shields.io/badge/░░░░░░░░░░░░░░░░░░░░░░░░░-1%25-10B981?style=flat-square) |
-| 🐛 Issues | **<1%** | ![<1%](https://img.shields.io/badge/░░░░░░░░░░░░░░░░░░░░░░░░░-<1%25-F59E0B?style=flat-square) |
+```
+┌─────────────────────────────────────────────────────────────┐
+│  github.com/Abhi-mishra998  ·  337 contributions  ·  2024   │
+├──────────────────┬──────────────────────────────┬───────────┤
+│  Activity        │  Distribution                │  Share    │
+├──────────────────┼──────────────────────────────┼───────────┤
+│  ⚡ Commits      │  ████████████████████████░░  │   96 %    │
+│  🔀 Pull Reqs    │  █░░░░░░░░░░░░░░░░░░░░░░░░░  │    3 %    │
+│  👁  Code Review │  ░░░░░░░░░░░░░░░░░░░░░░░░░░  │    1 %    │
+│  🐛 Issues       │  ░░░░░░░░░░░░░░░░░░░░░░░░░░  │   < 1%    │
+└──────────────────┴──────────────────────────────┴───────────┘
+```
+
+</div>
+
+---
+
+### 🗓️ Contribution Heatmap — 337 contributions in the last year
+
+<div align="center">
+
+```
+      Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec  Jan
+Mon │ ░░   ░░   ░░   ░▒   ░░   ▒░   ░▒   ▒░   ▓▓   █▓   ▓█   █▓ │
+Tue │ ░░   ░▒   ░░   ▒░   ░▒   ░▒   ▒▒   ▓▒   █▓   ▓█   ██   █▓ │
+Wed │ ░░   ▒░   ░▒   ░▒   ▒░   ▒▒   ▓░   ▓▓   ██   █▓   ██   ▓█ │
+Thu │ ░░   ░░   ▒░   ░░   ░▒   ░░   ▒▒   ▒▓   ▓█   ██   ▓▓   █▓ │
+Fri │ ░░   ░▒   ░░   ░▒   ▒░   ▒▒   ▓▒   ▓░   █▓   ▓█   █▓   ▓█ │
+Sat │ ░░   ░░   ░░   ░░   ░░   ▒░   ░▒   ▒░   ▓▒   ▒▓   ▓▒   ▒░ │
+Sun │ ░░   ░░   ░░   ░░   ░░   ░░   ░░   ▒░   ▒░   ░▒   ▒░   ░░ │
+
+  ░ None (0)   ▒ Low (1–3)   ▓ Medium (4–6)   █ High (7+)
+```
+
+</div>
+
+---
+
+### 🧑‍💻 Top Languages & Stack Focus
+
+<div align="center">
+
+| Language / Tool | Proficiency | Focus Area |
+|:----------------|:-----------:|:-----------|
+| `YAML` | `████████░░` 80% | CI/CD pipelines, K8s manifests, IaC configs |
+| `Python` | `███████░░░` 70% | MLOps, AI/LLM, automation, FastAPI backends |
+| `Bash / Shell` | `██████░░░░` 60% | Linux scripting, DevOps automation |
+| `HCL (Terraform)` | `█████░░░░░` 50% | Infrastructure as Code, AWS provisioning |
+| `Dockerfile` | `█████░░░░░` 50% | Container builds & multi-stage optimization |
+| `SQL (PostgreSQL)` | `████░░░░░░` 40% | Schema design, queries, RDS on AWS |
+| `JavaScript` | `███░░░░░░░` 30% | Node.js APIs, web tooling |
 
 </div>
 
@@ -440,9 +461,9 @@ Community contribution project helping beginners get started with open source.
 |:------------|:-------|:--------|
 | 🦈 **Pull Shark** | ✅ Unlocked | Mastered Pull Requests |
 | ⚡ **Quickdraw** | ✅ Unlocked | Lightning Fast Contributor |
-| 🎯 **First Repository** | ✅ Created | July 24, 2025 |
-| 🚀 **First Pull Request** | ✅ Merged | August 10, 2025 |
-| 🌟 **253+ Contributions** | 🔥 Active | Last Year |
+| 🎯 **First Repository** | ✅ Created | July 24, 2024 |
+| 🚀 **First Pull Request** | ✅ Merged | August 10, 2024 |
+| 🌟 **337 Contributions** | 🔥 Active | Last Year |
 | 📦 **50+ Repositories** | 🚀 Built | Ongoing |
 
 </div>
@@ -451,8 +472,8 @@ Community contribution project helping beginners get started with open source.
 
 ## 🏅 Professional Achievements
 
-- 🏅 **NPTEL Discipline Star** – 20 credits in tech courses  
-- 🏆 **Best Leadership Award 2022** – PIET  
+- 🏅 **NPTEL Discipline Star** – 20 credits in tech courses
+- 🏆 **Best Leadership Award 2022** – PIET
 - 👨‍💻 **Hackathon Finalist** – KR Mangalam (AI Education App)
 
 ---
@@ -471,8 +492,8 @@ Community contribution project helping beginners get started with open source.
 
 ### 🎓 Certification Highlights
 
-- 🎓 **Oracle Certified Associate** (OCI Foundations)  
-- 🎓 **50+ Certifications** (IITs, GUVI, AWS, NPTEL, etc.)  
+- 🎓 **Oracle Certified Associate** (OCI Foundations)
+- 🎓 **50+ Certifications** (IITs, GUVI, AWS, NPTEL, etc.)
 - 📂 **[View All Certificates](https://tinyurl.com/abhishek9880-certs)**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -506,7 +527,7 @@ Community contribution project helping beginners get started with open source.
 </p>
 
 <p align="center">
-  <b>✨ Thanks for visiting — keep learning, keep building! ✨</b>
+  <b>✨ Thanks for visiting — keep building, keep shipping! ✨</b>
 </p>
 
 <p align="center">
