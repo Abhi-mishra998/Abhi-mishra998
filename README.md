@@ -197,7 +197,7 @@
 <td width="50%">
 
 #### 🔷 SmartLawyer-RAG (AI Legal Assistant)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhishek9880/smartlawyer-using-rag)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Abhi-mishra998/smartlawyer-using-rag)
 
 **Tech Stack:** Python | OpenAI | LangChain | FAISS | Streamlit
 
@@ -368,23 +368,31 @@ Community contribution project helping beginners get started with open source.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-mishra998&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-mishra998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abhi-mishra998&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-mishra998&theme=react-dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-mishra998&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-mishra998&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-mishra998&theme=tokyonight" width="95%"/>
 </p>
 
 ### 📈 Activity Distribution
-```
-Commits:        95% ████████████████████████████████████████
-Pull Requests:   4% ███
-Code Reviews:    1% █
-```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-mishra998&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://img.shields.io/badge/Commits-95%25-00C4FF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull_Requests-4%25-7957D5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Reviews-1%25-F05032?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi-mishra998&theme=tokyonight" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi-mishra998&theme=tokyonight" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi-mishra998&theme=tokyonight&utcOffset=5.5" width="30%"/>
 </p>
 
 ---
@@ -445,10 +453,10 @@ Code Reviews:    1% █
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://abhimishra-devops.com">
+  <a href="https://abhi-mishra998.github.io/abhimishra-devops/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00C4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://blog.abhimishra-devops.com">
+  <a href="https://projectsphere.hashnode.dev/">
     <img src="https://img.shields.io/badge/Blog-Read_Articles-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-mishra-49888123b/">
