@@ -19,6 +19,8 @@ I build the runtime layer that decides which actions an AI agent can take, block
 ## 🛡 Currently building — Aegis
 
 <p>
+  <a href="https://github.com/Abhi-mishra998/aegis/actions/workflows/test.yml"><img alt="Tests" src="https://github.com/Abhi-mishra998/aegis/actions/workflows/test.yml/badge.svg"></a>
+  <a href="https://github.com/Abhi-mishra998/aegis/actions/workflows/security_scan.yml"><img alt="Security scan" src="https://github.com/Abhi-mishra998/aegis/actions/workflows/security_scan.yml/badge.svg"></a>
   <a href="https://github.com/Abhi-mishra998/aegis/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square"></a>
   <a href="https://pypi.org/project/aegis-anthropic/"><img alt="PyPI" src="https://img.shields.io/badge/PyPI-aegis--anthropic%20%C2%B7%20openai%20%C2%B7%20langchain%20%C2%B7%20bedrock-3775A9?style=flat-square&logo=pypi&logoColor=white"></a>
   <a href="https://aegisagent.in"><img alt="Live" src="https://img.shields.io/badge/site-aegisagent.in-00d4a3?style=flat-square"></a>
@@ -108,9 +110,15 @@ flowchart LR
 
 ## Read · watch · contact
 
-- **Writing** — [projectsphere.hashnode.dev](https://projectsphere.hashnode.dev) — engineering deep-dives on ed25519 vs RSA, chaos-testing kill switches, cost-optimizing early-stage AWS
-- **Video** — [Aegis 5-min walkthrough](https://drive.google.com/file/d/1Eojid76NcrRLC1Gp302i113pNgrH1hso/view) · [Aegis feature reel](https://drive.google.com/drive/folders/1cAnCFmF6SEqaqTbiijuj0HyGwXmy1lhZ) · [Revora 90-sec](https://drive.google.com/file/d/1fYYko3czhO7s8P7IijeGuUOexBnRzTzw/view)
-- **LinkedIn** — [linkedin.com/in/abhishek-mishra-eng](https://www.linkedin.com/in/abhishek-mishra-eng/) · build-in-public, 3,100+ followers
-- **Portfolio** — [portfolio-self-seven-1zphd40voq.vercel.app](https://portfolio-self-seven-1zphd40voq.vercel.app)
-- **GitHub** — [github.com/Abhi-mishra998](https://github.com/Abhi-mishra998) · 76 public repos
-- **Email** — [abhishekmishra09896@gmail.com](mailto:abhishekmishra09896@gmail.com)
+<p>
+  <a href="https://projectsphere.hashnode.dev"><img alt="Blog" src="https://img.shields.io/badge/-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abhishek-mishra-eng/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-self-seven-1zphd40voq.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/Abhi-mishra998"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://drive.google.com/drive/folders/1cAnCFmF6SEqaqTbiijuj0HyGwXmy1lhZ"><img alt="Demos" src="https://img.shields.io/badge/-Demos-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+  <a href="mailto:abhishekmishra09896@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+**Deep-dives** — ed25519 vs RSA on the audit hot path · chaos-testing the kill switch · cost-optimizing early-stage AWS on the [engineering blog](https://projectsphere.hashnode.dev/)  
+**Video** — [Aegis 5-min walkthrough](https://drive.google.com/file/d/1Eojid76NcrRLC1Gp302i113pNgrH1hso/view) · [Aegis feature reel](https://drive.google.com/drive/folders/1cAnCFmF6SEqaqTbiijuj0HyGwXmy1lhZ) · [Revora 90-sec demo](https://drive.google.com/file/d/1fYYko3czhO7s8P7IijeGuUOexBnRzTzw/view)  
+**Community** — 3,100+ LinkedIn followers · 76 public GitHub repos
