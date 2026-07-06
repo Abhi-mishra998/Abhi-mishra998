@@ -8,7 +8,6 @@
 <p>
   <a href="https://aws.amazon.com/developer/community/community-builders/"><img alt="AWS Community Builder" src="https://img.shields.io/badge/AWS-Community%20Builder-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></a>
   <a href="https://github.com/Abhi-mishra998/aegis"><img alt="Currently building Aegis" src="https://img.shields.io/badge/Currently%20building-Aegis-000000?style=flat-square"></a>
-  <img alt="Open to senior roles" src="https://img.shields.io/badge/Open%20to-Senior%20AI%20%2F%20Platform%20roles-22c55e?style=flat-square">
   <a href="https://www.linkedin.com/in/abhishek-mishra-eng/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://projectsphere.hashnode.dev/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white"></a>
 </p>
@@ -115,5 +114,3 @@ flowchart LR
 - **Portfolio** — [portfolio-self-seven-1zphd40voq.vercel.app](https://portfolio-self-seven-1zphd40voq.vercel.app)
 - **GitHub** — [github.com/Abhi-mishra998](https://github.com/Abhi-mishra998) · 76 public repos
 - **Email** — [abhishekmishra09896@gmail.com](mailto:abhishekmishra09896@gmail.com)
-
-**Open to** senior AI Engineering / AI Infrastructure / Platform Engineering / Backend Engineering roles. On-site · Hybrid · Remote. Hyderabad-based, willing to relocate for the right team.
